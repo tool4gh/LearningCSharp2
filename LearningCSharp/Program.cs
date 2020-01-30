@@ -15,7 +15,7 @@ namespace LearningCSharp
             Console.WriteLine("Input id number:");
             var post = new StackPost(id, title, description);
 
-            
+            //her skal det komme mer info
             
             string test;
             test = Console.ReadLine();
